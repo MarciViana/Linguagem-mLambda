@@ -1,0 +1,10 @@
+FALTA TESTAR:
+
+eacharrayvalue (eu fiz falta testar)(testei com o evenodds)
+
+applyarrayvalue (eu fiz falta testar)(testei com o evenodds)
+
+removearrayvalue (eu fiz falta testar)
+
+erros
+
